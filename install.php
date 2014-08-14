@@ -9,13 +9,3 @@
  * return false;
  *
  */
-$sql = "CREATE TABLE IF NOT EXISTS HelloWorld_settings (
-`key` varchar(255) NOT NULL default '',
-`value` varchar(255) NOT NULL default '',
-PRIMARY KEY (`key`)
-);";
-
-$check = sql($sql);
-if (DB::IsError($check)) {
-        die_freepbx( "Can not create `HelloWorld` table: " . $check->getMessage() .  "\n");
-}
