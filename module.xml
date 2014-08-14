@@ -1,26 +1,34 @@
 <module>
-	<rawname>helloworld</rawname>
-	<name>Hello World</name>
+	<rawname>avantfax</rawname>
+	<name>AvantFAX</name>
 	<version>0.1.0.0</version>
+	<publisher>Josh North/Point808.com</publisher>
+	<license>GPLv3+</license>
 	<candisable>yes</candisable>
 	<canuninstall>yes</canuninstall>
 	<changelog>
 		*0.1.0.0* Original Release (beta)
 	</changelog>
 	<description>
-		provides a hello world example
+		Provides a link to AvantFAX on an IncrediblePBX/IncredibleFAX Ubuntu 14 install
 	</description>
 	<attention>
-		This text will be displayed prominently before the user is able to install the module. Use to display warning before installation.
+		THIS WILL ONLY WORK IF INCREDIBLEFAX IS INSTALLED VIA THE PIAF SCRIPT ON UBUNTU 14!  Or perhaps if you get lucky.
 	</attention>
-	<info>http://github.com/jfinstrom/</info>
+	<info>http://github.com/joshnorth/FreePBX-AvantFAX/</info>
 	<menuitems>
-                <HelloWorld>Hello World</HelloWorld>
+		<avantfax 
+			category="AvantFAX" 
+			href="/avantfax" 
+			target="fax" 
+			access="all"
+			requires_auth="false"
+			>AvantFAX</avantfax>
 	</menuitems>
 	<depends>
 		<module>core</module>
 		<version>ge2.2</version>
     </depends>
-	<category>Settings</category>
+	<category>Admin</category>
 </module>
 
