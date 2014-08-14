@@ -22,27 +22,7 @@ ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ------------------------------------------------------------------------------
-Now that that's is out of the way.... 
 
-Hello world, FreePBX module edition.
 
-THE GOAL
----------
-Create a skeliton people (mainly me but probably you) can build off of.
-This will be losely documented and should serve as an example.
-This is setup for those who learn by example code.
-
-SPAM
---------
-Please note that my contributions and what I do is made possible because
-of my awesome employer. Please consider buying stuff from them to keep me
-employed. I like paying my bills they make that possible too. If anything
-I do helps you please consider buying a Rhino Card or server to show my 
-time diung this stuff makes the company money.
-
-TODO:
--------
-page
-function
-module xml <-- Done
-
+Forked from FreepBX/helloworld as a base/jumping-off point. This is built to allow a
+link to AvantFAX as part of the IncredibleFAX/IncrediblePBX setup on Ubuntu14.
