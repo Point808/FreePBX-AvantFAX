@@ -5,7 +5,7 @@ This started as a need for a module to link to the Ubuntu PIAF with Asterisk lin
 Forum thread: http://pbxinaflash.com/community/index.php?threads/wip-incrediblefax-for-ubuntu-incrediblepbx-install.15386/  
 
 ### Working: ###
-Ubuntu 14.04 (i386) and Ubuntu 14.04.1 (amd64) default installs per the NV post on Ubuntu and IncrediblePBX at (http://nerdvittles.com/?p=9713).  
+Ubuntu 14.04 (i386) and Ubuntu 14.04.1 (amd64) default installs per the NV post on Ubuntu and IncrediblePBX at (http://nerdvittles.com/?p=9713).   
 
 ### Installation: ###
 1. Run per the forum thread linked above.  It will pull the github raw code and install as a module.
