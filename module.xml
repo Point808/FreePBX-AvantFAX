@@ -15,7 +15,7 @@
 	<attention>
 		THIS WILL ONLY WORK IF INCREDIBLEFAX IS INSTALLED VIA THE PIAF SCRIPT ON UBUNTU 14!  Or perhaps if you get lucky.
 	</attention>
-	<info>http://github.com/joshnorth/FreePBX-AvantFAX/</info>
+	<info>https://git.point808.com/Point808/FreePBX-AvantFAX</info>
 	<menuitems>
 		<avantfax 
 			category="AvantFAX" 
