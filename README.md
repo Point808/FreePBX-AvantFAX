@@ -8,4 +8,4 @@ Forum thread: http://pbxinaflash.com/community/index.php?threads/wip-incrediblef
 Ubuntu 14.04 (i386) and Ubuntu 14.04.1 (amd64) default installs per the NV post on Ubuntu and IncrediblePBX at (http://nerdvittles.com/?p=9713).  
 
 ### Installation: ###
-1. Run per the forum thread linked above.  It will pull the github rawe code and install as a module.
+1. Run per the forum thread linked above.  It will pull the github raw code and install as a module.
